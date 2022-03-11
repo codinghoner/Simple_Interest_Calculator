@@ -1,2 +1,0 @@
-# Alex Honingford
-finalproject1
